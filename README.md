@@ -1,2 +1,2 @@
-# Weekly-Exercise-4
+# exercise4
 ◕ ◞ ◕ This project was made using https://netnet.studio
